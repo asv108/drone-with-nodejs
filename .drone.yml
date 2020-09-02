@@ -49,4 +49,4 @@ pipeline:
         }}  ]
     when:
       repo:
-      - luisredda/drone-with-nodejs
+      - alexvalentine/drone
