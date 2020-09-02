@@ -6,4 +6,3 @@ An example NodeJS repo with Drone test/build..
 
 ..
 .
-test
